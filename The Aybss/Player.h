@@ -31,7 +31,8 @@ public:
     void displayStats() const;
     void displayInventory() const;
     void addItem(const string& item);
-
+    void takeDamage(int damage);
+    const Stats& getStats() const;
 private:
     string name;
     Stats stats;

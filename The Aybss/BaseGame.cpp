@@ -17,6 +17,20 @@ BaseGame::BaseGame() {
 BaseGame::~BaseGame() {
     // Destructor implementation (if any)
 }
+void BaseGame::damagePlayer(int damageAmount) {
+    player.takeDamage(damageAmount);
+    Console::WriteLine("You took " + std::to_string(damageAmount) + " damage!", ConsoleColor::Red);
+    Console::WriteLine("Current Health: " + std::to_string(player.getStats().health), ConsoleColor::White);
+    // Additional logic based on player's health status can be added here
+    if (player.getStats().health <= 0) {
+        returnToMainMenu();
+    }
+}
+void BaseGame::returnToMainMenu() {
+    // Reset player's health or perform any other necessary cleanup
+    player = Player(); // Example: Reset player object
+
+}
 
 void BaseGame::runGame() {
     // Strings
@@ -80,32 +94,39 @@ void BaseGame::runGame() {
             break;
         case 3:
             Console::Write("You Start Walking, Feeling the Rocky Wall till you come Across a light in the distance.", ConsoleColor::Yellow);
-            bool continueWalking = true;
-            while (continueWalking) {
-                Console::WriteLine("You Start Walking, Feeling the Rocky Wall till you come Across a light in the distance.", ConsoleColor::Yellow);
-                // Prompt for next action or decision
-                vector<string> WalkingOptions{ "1. Approach the light", "2. Go back", "3. Stay and observe" };
-                int walkingChoice = Input::GetMenuSelection(WalkingOptions);
-                Console::Clear();
-                switch (walkingChoice) {
-                case 1:
-                    Console::WriteLine("As you approach the light, you see...");
-                    // Further game logic or narrative continuation
-                    continueWalking = false; // Exit the loop or set condition to stop
-                    break;
-                }
-
-                Input::PressEnter();
-
-            } while (menuSelection != 3);  // Corrected while condition
+            BaseGame::Question2();
+            break;
         }
-    } break;
-
-    Input::PressEnter();
 
 } while (menuSelection != 3);  // Corrected while condition
 }
 
+void BaseGame::Question2() {
+    int menuSelection = 0;
+    int enemyDamage = 100; // Define enemy damage outside the loop
+
+    vector<string> AdventureOptions{ "1. Inspect The Flashlight", "2. Pickup Flashlight And Continue On", "3. Continue Exploring in The Dark" };
+    do {
+        Console::Clear();
+        Console::WriteLine("\nYou Decide to continue Walking, Coming Across A Flashlight. What Do You Do?", ConsoleColor::White);
+        menuSelection = Input::GetMenuSelection(AdventureOptions);
+        Console::Clear();
+
+        switch (menuSelection) {
+        case 1:
+            Console::WriteLine("\nYou Pick up the Flashlight and Look it over, Noticing a Blood Stain. You Start to question what happened down here.", ConsoleColor::Yellow);
+            break;
+        case 2:
+            Console::Write("You Pick up the Flashlight and Equip it to your Belt.\n", ConsoleColor::Yellow);
+            player.addItem("Flashlight");
+            break;
+        case 3:
+            Console::Write("You Start Walking, Feeling the Rocky Wall till you Feel Teeth\n", ConsoleColor::Red);
+            damagePlayer(enemyDamage);
+            break;
+        }
+    } while (menuSelection != 3);  // Corrected while condition
+}
 void BaseGame::Credits() {
     Console::WriteLine("Credits", ConsoleColor::Blue);
     Console::Write("Full Sail University: for the Console, & Input implementation\n", ConsoleColor::Yellow);

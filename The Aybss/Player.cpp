@@ -31,6 +31,15 @@ void Player::displayInventory() const {
         Console::WriteLine("  " + to_string(i + 1) + ": " + stats.inventory[i], ConsoleColor::White);
     }
 }
+const Player::Stats& Player::getStats() const {
+    return stats;
+}
+void Player::takeDamage(int damageAmount) {
+    stats.health -= damageAmount;
+    if (stats.health < 0) {
+        stats.health = 0; // Ensure health doesn't go negative
+    }
+}
 void Player::addItem(const string& item) {
     if (stats.invcount < 10) {
         stats.inventory[stats.invcount] = item;

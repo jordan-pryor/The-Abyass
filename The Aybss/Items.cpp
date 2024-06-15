@@ -5,5 +5,5 @@
 
 
 
-vector<string> newItem = {"Map", "Food", "Water", "Rusty Knife"};
+vector<string> newItem = {"Map", "Food", "Water", "Rusty Knife", "Flashlight"};
     
