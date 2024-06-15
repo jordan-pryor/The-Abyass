@@ -130,6 +130,7 @@
     <ClCompile Include="Abyss.cpp" />
     <ClCompile Include="Console.cpp" />
     <ClCompile Include="Input.cpp" />
+    <ClCompile Include="Items.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="BaseGame.cpp" />
   </ItemGroup>

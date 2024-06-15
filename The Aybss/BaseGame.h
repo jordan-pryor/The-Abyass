@@ -1,6 +1,7 @@
 #pragma once
 #ifndef BASEGAME_H
 #define BASEGAME_H
+#include "Player.h"
 
 class BaseGame
 {
@@ -11,6 +12,7 @@ public:
     void Credits();
 
 private:
+    Player player;
 
 };
 #endif

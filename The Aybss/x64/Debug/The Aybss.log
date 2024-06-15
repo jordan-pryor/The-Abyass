@@ -1,7 +1,2 @@
-﻿  Abyss.cpp
-  Console.cpp
-  Input.cpp
-  Player.cpp
-  BaseGame.cpp
-  Generating Code...
+﻿  BaseGame.cpp
   The Aybss.vcxproj -> D:\Github\The-Abyss\x64\Debug\The Aybss.exe

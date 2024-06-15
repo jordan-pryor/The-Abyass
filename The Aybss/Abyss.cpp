@@ -12,13 +12,17 @@ int main() {
     Console::ResizeWindow(150, 30);
     // Displays the Main Menu(Sorta)
     int menuSelection = 0;
+    
     vector<string> menuOptions{ "1. Start New Game", "2. Credits", "3. Exit" };
     do
     {
         Console::Clear();
+        Console::WriteLine("\nThe Abyss:Text-Based Adventure!", ConsoleColor::Cyan);
         menuSelection = Input::GetMenuSelection(menuOptions);
         Console::Clear();
         BaseGame game;
+
+        
                               
         switch (menuSelection)
         {
@@ -30,6 +34,7 @@ int main() {
             // Credits
         case 2:
             // TBA
+            game.Credits();
             break;
 
             // Exit Game

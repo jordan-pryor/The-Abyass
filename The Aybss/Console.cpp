@@ -1,5 +1,6 @@
 #include "Console.h"
 #include <iostream>
+#include <Windows.h>
 
 const std::string Console::ESC = "\x1B";
 int Console::windowWidth = 100, Console::windowHeight = 50;
@@ -46,6 +47,27 @@ void Console::Write(std::string message, ConsoleColor foreColor, ConsoleColor ba
 void Console::WriteLine(std::string message)
 {
 	std::cout << message << std::endl;
+}
+
+void Console::WriteCentered(const std::string& message, ConsoleColor color) {
+	// Get console width
+	CONSOLE_SCREEN_BUFFER_INFO csbi;
+	int consoleWidth;
+	if (GetConsoleScreenBufferInfo(GetStdHandle(STD_OUTPUT_HANDLE), &csbi)) {
+		consoleWidth = csbi.srWindow.Right - csbi.srWindow.Left + 1;
+	}
+	else {
+		consoleWidth = 80;  // Default width if unable to get info
+	}
+
+	// Calculate padding
+	int padding = (consoleWidth - message.length()) / 2;
+	if (padding > 0) {
+		std::cout << std::string(padding, ' ');
+	}
+
+	// Print the message
+	WriteLine(message, color);
 }
 
 void Console::WriteLine(std::string message, ConsoleColor foreColor, ConsoleColor backColor)

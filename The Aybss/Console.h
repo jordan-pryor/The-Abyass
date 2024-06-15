@@ -35,6 +35,7 @@ public:
     static void Write(std::string message, ConsoleColor foreColor, ConsoleColor backColor = ConsoleColor::Black);
     static void WriteLine(std::string message);
     static void WriteLine(std::string message, ConsoleColor foreColor, ConsoleColor backColor = ConsoleColor::Black);
+    static void WriteCentered(const std::string& message, ConsoleColor color);
 
 
 private:
