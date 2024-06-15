@@ -128,11 +128,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Abyss.cpp" />
+    <ClCompile Include="Console.cpp" />
+    <ClCompile Include="Input.cpp" />
     <ClCompile Include="Player.cpp" />
-    <ClCompile Include="Introduction.cpp" />
+    <ClCompile Include="BaseGame.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BaseGame.h" />
+    <ClInclude Include="Console.h" />
+    <ClInclude Include="Input.h" />
     <ClInclude Include="Player.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

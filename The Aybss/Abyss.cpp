@@ -2,30 +2,46 @@
 #include <cstdlib>
 #include "Player.h"
 #include "BaseGame.h"
+#include "Console.h"
+#include "Input.h"
 
+using namespace std;
 
 int main() {
+    // Re-Write to Utilize the Console I Utilized
+    Console::ResizeWindow(150, 30);
     // Displays the Main Menu(Sorta)
-    int choice;
+    int menuSelection = 0;
+    vector<string> menuOptions{ "1. Start New Game", "2. Credits", "3. Exit" };
+    do
+    {
+        Console::Clear();
+        menuSelection = Input::GetMenuSelection(menuOptions);
+        Console::Clear();
+        BaseGame game;
+                              
+        switch (menuSelection)
+        {
+            // Start Game
+        case 1:
+            game.runGame(); // Call the introduction function
+            break;
 
-    cout << "Welcome to the game!" << endl;
-    cout << "1. Start New Game" << endl;
-    cout << "2. Resume Game" << endl;
-    cout << "3. Exit";
-    cout << "\nEnter Your Selection..";
-        cin >> choice;
+            // Credits
+        case 2:
+            // TBA
+            break;
 
-    switch (choice) {
-    case 1:
-        runIntroduction(); // Call the introduction function
-        break;
-    case 2:
-        // Resume Game Function TBA
-        break;
-    default:
-        cout << "Thank You, Exiting..." << endl;
-        break;
-    }
+            // Exit Game
+        case 3:
+            break;
 
-    return 0;
+        default:
+            cout << "Invalid selection. Please try again." << endl;
+            break;
+        }
+
+        Input::PressEnter();
+
+    } while (menuSelection != 3);  // Corrected while condition
 }

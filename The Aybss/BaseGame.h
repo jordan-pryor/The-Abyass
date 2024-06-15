@@ -2,6 +2,18 @@
 #ifndef BASEGAME_H
 #define BASEGAME_H
 
-void runIntroduction();
+class BaseGame
+{
+public:
+    BaseGame();
+    ~BaseGame();
+    void runGame();
+    void Credits();
 
+private:
+
+};
 #endif
+
+// Developed By Jordan Pryor //
+// FCC Public License 2024 //

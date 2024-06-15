@@ -14,7 +14,7 @@ struct Stats {
     int defense; // Defense
     int xp; // Experince for Levels
     string inventory[10]; // Inventory
-    int invcount;
+    int invcount = 0;
 };
 
 class Player {
