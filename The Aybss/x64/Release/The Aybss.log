@@ -1,0 +1,16 @@
+﻿  Abyss.cpp
+  Console.cpp
+C:\Users\Jorda\source\repos\jordan-pryor\The-Abyss\The Aybss\Console.cpp(64,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Input.cpp
+C:\Users\Jorda\source\repos\jordan-pryor\The-Abyss\The Aybss\Input.cpp(63,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Items.cpp
+  Player.cpp
+  BaseGame.cpp
+  QuestionsAndEvents.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 395 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  The Aybss.vcxproj -> C:\Users\Jorda\Source\Repos\jordan-pryor\The-Abyss\x64\Release\The Aybss.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

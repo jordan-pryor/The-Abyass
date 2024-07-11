@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\QuestionsAndEvents.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|solutionrelative:The Aybss\\QuestionsAndEvents.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\QuestionsAndEvents.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|solutionrelative:The Aybss\\QuestionsAndEvents.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\BaseGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|solutionrelative:The Aybss\\BaseGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|solutionrelative:The Aybss\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|solutionrelative:The Aybss\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\BaseGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|solutionrelative:The Aybss\\BaseGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Abyss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|solutionrelative:The Aybss\\Abyss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -31,8 +27,16 @@
       "RelativeMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|solutionrelative:The Aybss\\Items.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|solutionrelative:The Aybss\\Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|solutionrelative:The Aybss\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|solutionrelative:The Aybss\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|solutionrelative:The Aybss\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B195792-A34A-460D-9F33-6149C4F2B360}|The Aybss\\The Aybss.vcxproj|C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -49,8 +53,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Console.cpp",
+              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Console.cpp",
+              "RelativeDocumentMoniker": "The Aybss\\Console.cpp",
+              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Console.cpp",
+              "RelativeToolTip": "The Aybss\\Console.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-15T15:42:12.725Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -61,20 +79,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Items.cpp",
-              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Items.cpp",
-              "RelativeDocumentMoniker": "The Aybss\\Items.cpp",
-              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Items.cpp",
-              "RelativeToolTip": "The Aybss\\Items.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "QuestionsAndEvents.h",
+              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\QuestionsAndEvents.h",
+              "RelativeDocumentMoniker": "The Aybss\\QuestionsAndEvents.h",
+              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\QuestionsAndEvents.h",
+              "RelativeToolTip": "The Aybss\\QuestionsAndEvents.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-11T05:43:39.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestionsAndEvents.cpp",
+              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\QuestionsAndEvents.cpp",
+              "RelativeDocumentMoniker": "The Aybss\\QuestionsAndEvents.cpp",
+              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\QuestionsAndEvents.cpp",
+              "RelativeToolTip": "The Aybss\\QuestionsAndEvents.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-15T15:42:12.591Z",
+              "WhenOpened": "2024-07-11T05:33:37.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Input.cpp",
+              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Input.cpp",
+              "RelativeDocumentMoniker": "The Aybss\\Input.cpp",
+              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Input.cpp",
+              "RelativeToolTip": "The Aybss\\Input.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-11T03:05:40.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Input.h",
+              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Input.h",
+              "RelativeDocumentMoniker": "The Aybss\\Input.h",
+              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Input.h",
+              "RelativeToolTip": "The Aybss\\Input.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-15T15:42:12.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseGame.h",
+              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\BaseGame.h",
+              "RelativeDocumentMoniker": "The Aybss\\BaseGame.h",
+              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\BaseGame.h",
+              "RelativeToolTip": "The Aybss\\BaseGame.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-15T15:42:12.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Player.h",
+              "RelativeDocumentMoniker": "The Aybss\\Player.h",
+              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Player.h",
+              "RelativeToolTip": "The Aybss\\Player.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-15T15:42:12.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Player.cpp",
+              "RelativeDocumentMoniker": "The Aybss\\Player.cpp",
+              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Player.cpp",
+              "RelativeToolTip": "The Aybss\\Player.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-15T15:42:12.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseGame.cpp",
+              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\BaseGame.cpp",
+              "RelativeDocumentMoniker": "The Aybss\\BaseGame.cpp",
+              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\BaseGame.cpp",
+              "RelativeToolTip": "The Aybss\\BaseGame.cpp",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-15T15:42:12.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "xstring",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
@@ -86,104 +195,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Abyss.cpp",
-              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Abyss.cpp",
-              "RelativeDocumentMoniker": "The Aybss\\Abyss.cpp",
-              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Abyss.cpp",
-              "RelativeToolTip": "The Aybss\\Abyss.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-15T15:42:12.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Input.h",
-              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Input.h",
-              "RelativeDocumentMoniker": "The Aybss\\Input.h",
-              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Input.h",
-              "RelativeToolTip": "The Aybss\\Input.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-15T15:42:12.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Console.h",
-              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Console.h",
-              "RelativeDocumentMoniker": "The Aybss\\Console.h",
-              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Console.h",
-              "RelativeToolTip": "The Aybss\\Console.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-15T15:42:12.724Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Console.cpp",
-              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Console.cpp",
-              "RelativeDocumentMoniker": "The Aybss\\Console.cpp",
-              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Console.cpp",
-              "RelativeToolTip": "The Aybss\\Console.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Title": "Items.cpp",
+              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Items.cpp",
+              "RelativeDocumentMoniker": "The Aybss\\Items.cpp",
+              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Items.cpp",
+              "RelativeToolTip": "The Aybss\\Items.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-15T15:42:12.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseGame.h",
-              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\BaseGame.h",
-              "RelativeDocumentMoniker": "The Aybss\\BaseGame.h",
-              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\BaseGame.h",
-              "RelativeToolTip": "The Aybss\\BaseGame.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-15T15:42:12.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Player.h",
-              "RelativeDocumentMoniker": "The Aybss\\Player.h",
-              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Player.h",
-              "RelativeToolTip": "The Aybss\\Player.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-15T15:42:12.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Player.cpp",
-              "RelativeDocumentMoniker": "The Aybss\\Player.cpp",
-              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\Player.cpp",
-              "RelativeToolTip": "The Aybss\\Player.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-15T15:42:12.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BaseGame.cpp",
-              "DocumentMoniker": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\BaseGame.cpp",
-              "RelativeDocumentMoniker": "The Aybss\\BaseGame.cpp",
-              "ToolTip": "C:\\Users\\Jorda\\source\\repos\\jordan-pryor\\The-Abyss\\The Aybss\\BaseGame.cpp",
-              "RelativeToolTip": "The Aybss\\BaseGame.cpp",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-15T15:42:12.783Z",
+              "WhenOpened": "2024-06-15T15:42:12.591Z",
               "EditorCaption": ""
             }
           ]
