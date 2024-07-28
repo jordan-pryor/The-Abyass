@@ -1,7 +1,5 @@
 # The Abyss
 
-![The Abyss Logo](path/to/logo.png) <!-- Add a logo if available -->
-
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
