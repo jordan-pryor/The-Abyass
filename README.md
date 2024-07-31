@@ -91,7 +91,3 @@ Acknowledgements
 
 Enjoy your adventure in The Abyss!
 
-kotlin
-
-
-Feel free to adjust any part of this as necessary!
